@@ -13,8 +13,8 @@ This Python script creates a Telegram bot that automatically replies to messages
 
 Before running the script, ensure you have the following set up:
 - Python 3.11 environment with required dependencies installed (Telepot, OpenAI).
-- Telegram bot token obtained from @BotFather.
-- OpenAI API key.
+- Telegram bot token obtained from [@BotFather](https://core.telegram.org/bots).
+- [OpenAI](https://platform.openai.com/) API key.
 
 ## Configuration
 
