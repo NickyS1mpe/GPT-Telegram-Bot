@@ -18,7 +18,7 @@ Before running the script, ensure you have the following set up:
 
 ## Configuration
 
-1. Replace the placeholder values for `bot_token` and `api_key` with your Telegram bot token and OpenAI API key, respectively.
+1. Replace the values for `bot_token` and `api_key` with your Telegram bot token and OpenAI API key, respectively.
 2. Set the `current_model` variable to the desired OpenAI model (e.g., gpt-4-0613).
 3. Customize the `prompt` variable to define the personality and behavior of the AI.
 4. Update `bot_nickname`, `bot_username`, and `group_user_nickname` as needed to match your Telegram bot's details and group settings.
